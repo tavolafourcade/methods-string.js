@@ -45,7 +45,7 @@ function tengoClases(dia) {
 
         default:
             console.log('no tenés clases');
-            break;
+            
     }
 }
 
